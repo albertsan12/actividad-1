@@ -45,3 +45,31 @@ p {
     margin-top: 10px;
 }
 
+.card h2 {
+    background-color: #ffc500;
+    margin: 0;
+    padding: 6px;
+    text-align: center;
+}
+
+.card-img {
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.img {
+    flex-basis: 60%;
+}
+
+.card {
+    border: solid;
+    border-width: 1px;
+    background-color: #f4f3f4;
+    padding: 5px;
+}
+
+.card-img p {
+    margin-left: 3px;
+    flex-basis: 40%;
+}
